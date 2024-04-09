@@ -72,7 +72,7 @@ const MobileNav = () => {
 													height={20}
 												/>
 
-												<p className="text-lg font-semibold font-semibold">
+												<p className="text-lg font-semibold">
 													{link.label}
 												</p>
 											</Link>
